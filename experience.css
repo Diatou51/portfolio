@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background: bisque;  
+
+}
+.noura img{
+    width: 350px;
+    height: 250px;
+}
+.bas{
+    background-color: #a6dfcc;
+    color: black;
+    padding: 30px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+.bas .mail{ 
+    background-color:rgb(208, 185, 154);
+    font-size: 20px;
+     width: 300px; 
+    height:60px;
+    padding: 10px 30px;
+    margin: 30px;
+    border-radius: 15%;
+
+   }
+
+.bas .tel{
+  background-color:rgb(208, 185, 154);
+   font-size: 20px;
+    width:300px; 
+    height:60px; 
+    padding: 10px 30px;
+   margin: 30px;
+   border-radius: 15%;
+   
+}
